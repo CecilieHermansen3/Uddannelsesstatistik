@@ -1,3 +1,5 @@
+import pandas as pd
+
 def valider_data(df, name):
     print(f"--- {name} ---")
     print(f"Rækker: {len(df)}, Kommuner: {df['kommune'].nunique()}")

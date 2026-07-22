@@ -6,7 +6,7 @@ Projektet er udarbejdet som en del af en jobansøgning til en data analyst-still
 
 ## Formål
 
-Analysen undersøger, om der er en sammenhæng mellem elevers trivsel og deres skolefravær på kommuneniveau, og om denne sammenhæng er robust over for confounding fra forældres uddannelsesniveau samt over tid ved brug af paneldata og fixed-effects-metoder.
+Analysen undersøger, om der er en sammenhæng mellem elevers trivsel og deres skolefravær på kommuneniveau, og om denne sammenhæng er robust over for confounding fra forældres uddannelsesniveau samt over tid ved brug af paneldata og fixed-effects-metoder. Analysen omfatter mellemtrin og udskoling
 
 ## Metoderesumé
 
@@ -66,6 +66,14 @@ Bemærk: celler med færre end 3-5 observationer er diskretioneret af hensyn til
 - En del af den oprindelige paneldata-sammenhæng skyldtes en fælles national tidstendens (sandsynligvis Covid-19), hvilket blev afdækket ved brug af two-way fixed-effects.
 
 Se den fulde rapport for uddybende resultater, metodiske overvejelser og begrænsninger.
+
+## Hovedkonklusioner
+
+- Der findes en statistisk signifikant negativ sammenhæng mellem trivsel og fravær for både mellemtrin og udskoling i tværsnitsanalysen for 2024/2025.
+- Forældres uddannelsesniveau ændrer kun trivselskoefficienten lidt og ser derfor ikke ud til alene at forklare den observerede sammenhæng, og lader heller ikke til at fungere som confounder.
+- Analysen af ændringer fra 2019/2020 til 2024/2025 viser en beskeden negativ sammenhæng, men resultatet er følsomt over for enkelte observationer, især Læsø.
+- I panelanalysen genfindes en tydelig negativ sammenhæng for udskolingen efter kontrol for kommune- og årseffekter, mens der ikke findes tilsvarende evidens for mellemtrinnet.
+- Resultaterne viser statistiske sammenhænge på kommuneniveau, men kan ikke dokumentere, at der er en kausal sammenhæng mellem ændringer i trivsel og ændringer i fravær.
 
 ## Begrænsninger
 
