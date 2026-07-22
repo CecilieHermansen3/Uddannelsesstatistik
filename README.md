@@ -8,7 +8,7 @@ Projektet er udarbejdet som en del af en jobansøgning til en data analyst-still
 
 Analysen undersøger, om der er en sammenhæng mellem elevers trivsel og deres skolefravær på kommuneniveau, og om denne sammenhæng er robust over for confounding fra forældres uddannelsesniveau samt over tid ved brug af paneldata og fixed-effects-metoder.
 
-## Metode (kort)
+## Metoderesumé
 
 - **Tværsnitsanalyse** af trivsel, fravær og forældres uddannelsesniveau for skoleåret 2024/2025 (korrelation, lineær regression, confounder-analyse)
 - **Ændringsbaseret analyse** af udviklingen i trivsel og fravær fra 2019/2020 til 2024/2025
@@ -59,7 +59,7 @@ Data er hentet via uddannelsesstatistik.dk's API og dækker:
 
 Bemærk: celler med færre end 3-5 observationer er diskretioneret af hensyn til anonymitet, hvilket kan medføre manglende data for særligt små kommuner.
 
-## Hovedfund
+## Hovedkonklusioner
 
 - Der ses en konsistent, statistisk signifikant negativ sammenhæng mellem trivsel og fravær på tværs af flere metoder (tværsnitsanalyse, ændringsanalyse, paneldata med fixed effects).
 - Forældres uddannelsesniveau fungerer ikke som confounder for denne sammenhæng.
