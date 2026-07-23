@@ -1,8 +1,6 @@
 # Sammenhængen mellem trivsel og fravær i den danske grundskole
 
-En data science-analyse af sammenhængen mellem elevtrivsel og skolefravær i danske kommuner, baseret på offentligt tilgængelige data fra [uddannelsesstatistik.dk](https://www.uddannelsesstatistik.dk).
-
-Projektet er udarbejdet som en del af en jobansøgning til en data analyst-stilling hos Styrelsen for Undervisning og Kvalitet (STUK), og har til formål at demonstrere kvantitative og metodiske kompetencer inden for registerdataanalyse.
+En analyse af sammenhængen mellem elevtrivsel og skolefravær i grundskolen i danske kommuner, baseret på offentligt tilgængelige data fra [uddannelsesstatistik.dk](https://www.uddannelsesstatistik.dk).
 
 ## Formål
 
